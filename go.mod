@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/vault/api v1.9.2
 	github.com/libp2p/go-libp2p v0.27.7
-	github.com/libp2p/go-libp2p-kbucket v0.6.0
+	github.com/libp2p/go-libp2p-kbucket v0.6.3
 	github.com/libp2p/go-libp2p-pubsub v0.9.3
 	github.com/miekg/dns v1.1.53 // indirect
 	github.com/multiformats/go-base32 v0.1.0 // indirect
@@ -31,7 +31,7 @@ require (
 	github.com/umbracle/fastrlp v0.1.1-0.20230504065717-58a1b8a9929d
 	github.com/umbracle/go-eth-bn256 v0.0.0-20230125114011-47cb310d9b0b
 	golang.org/x/crypto v0.10.0
-	google.golang.org/grpc v1.53.0-dev
+	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 )
@@ -81,11 +81,10 @@ require (
 	github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.45.0 // indirect
 	github.com/DataDog/go-libddwaf v1.2.0 // indirect
 	github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork // indirect
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
 	github.com/golang/mock v1.6.0 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.2 // indirect
-	github.com/ipfs/go-ipfs-util v0.0.2 // indirect
+	github.com/ipfs/boxo v0.8.1 // indirect
 	github.com/libp2p/go-yamux/v4 v4.0.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.9.2 // indirect
 	github.com/outcaste-io/ristretto v0.2.1 // indirect
